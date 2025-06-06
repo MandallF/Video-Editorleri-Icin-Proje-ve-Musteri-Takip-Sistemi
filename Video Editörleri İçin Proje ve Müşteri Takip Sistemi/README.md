@@ -50,3 +50,10 @@ FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 - PDO eklentisi aktif olmalı.
 
 ##Proje Demo Videosu ve Ekran Görüntüsü:
+
+Demo Videosu: https://youtu.be/8FF2bR9HLzM
+
+![kayıt_ol](https://github.com/user-attachments/assets/f438fdac-d871-4e29-ba0a-5c4dcbb9c0ab)
+
+![yonetim](https://github.com/user-attachments/assets/41d12578-b036-4f7e-9597-a97892d2a98d)
+
